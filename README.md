@@ -23,7 +23,7 @@ Pseudocode Example
 <b></b>https://github.com/CaddenB26/Pseudocode/blob/b357fa2683cadc7169458cd31c8a51f32ca277de/Pseudocode.docx
 <br />
 <br />
-<img src="https://github.com/CaddenB26/CodeBook/blob/2e88e21a672b86f95e60401ea3e1e0c283ce7920/codebook.png" />
+<img src="https://github.com/CaddenB26/Pseudocode/blob/f3d62c05a652512d309d87ab82c043efed4f3294/Pseudocode1.png" />
 <br />
 <br />
 <p/>
